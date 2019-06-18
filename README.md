@@ -32,10 +32,10 @@ Skyrim直下の[Date]フォルダと、このzip内の[Date]フォルダを統�
 
 ## 対応MOD
 ### @同梱
-- [Use both xbox 360 controller AND Keyboard SIMULTANEOUSLY]()
-- [Xbox360 Controller KeyRemap (for Japanese keyboard)]()
+- [Use both xbox 360 controller AND Keyboard SIMULTANEOUSLY][]
+- [Xbox360 Controller KeyRemap (for Japanese keyboard)][]
 ### @共存可能
-- [SkyUI]() (- FavoriteHotKey)
+- [SkyUI][] (- FavoriteHotKey)
 - その他MCMからキーボードにキー設定できるMOD全て(多分)
 
 ---
@@ -43,8 +43,8 @@ Skyrim直下の[Date]フォルダと、このzip内の[Date]フォルダを統�
 
 ## 設定変更
 ### 使用ツール
-- [Interface Hard Coded Key Tweaks]() (以下IHCKT
-- [Skyrim Pad Config]() (以下SPC
+- [Interface Hard Coded Key Tweaks][] (以下IHCKT
+- [Skyrim Pad Config][] (以下SPC
 
 **※注意**  
 IHCKTを使用すると、SPCの設定はリセットされ、一時的にゲームパッドが使えなくなります。  
@@ -86,15 +86,15 @@ IHCKT → SPC の順番に利用してください。
 
 ## このファイルの作成過程
 
-- [Use both xbox 360 controller AND Keyboard SIMULTANEOUSLY]()
+- [Use both xbox 360 controller AND Keyboard SIMULTANEOUSLY][]
 
 をベースに
 
-- [Interface Hard Coded Key Tweaks]() でキーボードのキー登録を粗方削除  
+- [Interface Hard Coded Key Tweaks][] でキーボードのキー登録を粗方削除  
   + メニュー画面関連のみキーボードでも操作できるように残す
 
-- [Skyrim Pad Config]() で [Xbox360 Controller KeyRemap (for Japanese keyboard)]()の設定を再現  
-  + お気に入りメニュー操作の[SkyUI]()対応化
+- [Skyrim Pad Config][] で [Xbox360 Controller KeyRemap (for Japanese keyboard)][]の設定を再現  
+  + お気に入りメニュー操作の[SkyUI][]対応化
   + LB+操作の追加
 
 したものです。
